@@ -1,6 +1,6 @@
 {
   "name": "intention-builder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Build intention to use in browser with es6 modules",
   "main": "main.js",
   "scripts": {
