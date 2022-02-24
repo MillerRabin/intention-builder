@@ -1,6 +1,6 @@
 {
   "name": "intention-builder",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "Build intention to use in browser with es6 modules",
   "main": "main.js",
   "scripts": {
@@ -9,9 +9,9 @@
   "author": "millerrabin",
   "license": "ISC",
   "dependencies": {
-    "mkdirp-promise": "^5.0.1",
+    "mkdirp": "^1.0.4",
     "recursive-readdir": "^2.2.2",
-    "rimraf": "^2.6.3"
+    "rimraf": "^3.0.2"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
